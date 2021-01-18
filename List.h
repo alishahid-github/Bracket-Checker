@@ -1,4 +1,4 @@
-//Header file for the Linked List with Basic funtions
+//Header file for the Linked List with Basic funtions use in Bracket Checker
 
 #include<iostream>
 #include"Node.h"
@@ -17,7 +17,6 @@ public:
 
 private:
 	Node* head;
-
 };
 
 #endif
