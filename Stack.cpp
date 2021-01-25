@@ -1,3 +1,5 @@
+//stack header file with char supported for Braker Checker
+
 #include "Stack.h"
 #include "Node.h"
 
