@@ -1,4 +1,4 @@
-// A driver program which can implement the Linked list standard functions 
+// A driver program which can implement the bracket checker 
 #include<iostream>
 #include<string>
 #include<fstream>
